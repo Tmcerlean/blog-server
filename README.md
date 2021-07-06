@@ -1,7 +1,7 @@
 # Blog Server
 Simple backend server (CMS & REST API) for blog. Built using Express, NodeJS and MongoDB.
 - Note: There are some issues with the Github Pages hosting currently
-- [Live demo.](https://tmcerlean.github.io/login)
+- [Frontend demo.](https://tmcerlean.github.io/blog-client/)
 - Visit the frontend client repository for the blog [here.](https://github.com/Tmcerlean/blog-client)
 
 ![](Demo.gif)
